@@ -14,9 +14,9 @@
  *
  * Datum: 6.12.2017
  * Domovská stránka: http://www.ice-wow.eu
- * Aktuální verze překladu:
+ * Aktuální verze překladu: http://forum.ice-wow.eu/viewtopic.php?f=56&t=48
  * Reportní systém:
- * GitHub:
+ * GitHub: https://github.com/iCeOnlineWoW/phpbb-postmodels
  *
  */
  
@@ -51,8 +51,8 @@ $lang = array_merge($lang, array(
 	// ACP Modules
 	'ACP_MODELS'					=> 'Šablony příspěvků',
 	'ACP_MODELS_EXPLAIN'			=> 'Zde máte možnost spravovat šablony příspěvků a soukromých zpráv.</br></br>
-										<strong>Aktuální verze překladu:</strong> url odkaz</br>
-										<strong>GitHub repozitář:</strong> url odkaz</br>
+										<strong>Aktuální verze překladu:</strong> <a href="http://forum.ice-wow.eu/viewtopic.php?f=56&t=48" title="iCe Online - Post Models">iCe Online - Post Models</a></br>
+										<strong>GitHub repozitář:</strong> <a href="https://github.com/iCeOnlineWoW/phpbb-postmodels" title="GitHub - iCeOnlineWoW/phpbb-postmodels">iCe Online WoW / phpbb-postmodels</a></br>
 										<strong>Reportní systém:</strong> url odkaz',
 
 	// Admin logs
