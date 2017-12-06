@@ -8,6 +8,18 @@
  *
  */
 
+/**
+ *
+ * Český překlad
+ *
+ * Datum: 6.12.2017
+ * Domovská stránka: http://www.ice-wow.eu
+ * Aktuální verze překladu:
+ * Reportní systém:
+ * GitHub:
+ *
+ */
+
 if (!defined('IN_PHPBB'))
 {
 	exit;
@@ -37,11 +49,11 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	// ACP
-	'ACL_A_MODELS'					=> 'Can manage post models',
+	'ACL_A_MODELS'					=> 'Může spravovat šablony příspěvků',
 
 	// Forum
-	'ACL_F_MODELS'					=> 'Can use post models',
+	'ACL_F_MODELS'					=> 'Může použít šablony příspěvků',
 
 	// UCP
-	'ACL_U_PM_MODELS'				=> 'Can use post models',
+	'ACL_U_PM_MODELS'				=> 'Může použít šablony SZ',
 ));

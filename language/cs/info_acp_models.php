@@ -8,6 +8,18 @@
  *
  */
 
+/**
+ *
+ * Český překlad
+ *
+ * Datum: 6.12.2017
+ * Domovská stránka: http://www.ice-wow.eu
+ * Aktuální verze překladu:
+ * Reportní systém:
+ * GitHub:
+ *
+ */
+ 
 if (!defined('IN_PHPBB'))
 {
 	exit;
@@ -37,11 +49,14 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	// ACP Modules
-	'ACP_MODELS'					=> 'Post models',
-	'ACP_MODELS_EXPLAIN'			=> 'Here you can manage the post models that autorized users will be abble to use to create their messages.',
+	'ACP_MODELS'					=> 'Šablony příspěvků',
+	'ACP_MODELS_EXPLAIN'			=> 'Zde máte možnost spravovat šablony příspěvků a soukromých zpráv.</br></br>
+										<strong>Aktuální verze překladu:</strong> url odkaz</br>
+										<strong>GitHub repozitář:</strong> url odkaz</br>
+										<strong>Reportní systém:</strong> url odkaz',
 
 	// Admin logs
-	'LOG_MODEL_ADDED'		=> '<strong>Added post model</strong><br />» %s',
-	'LOG_MODEL_REMOVED'		=> '<strong>Removed post model</strong><br />» %s',
-	'LOG_MODEL_UPDATED'		=> '<strong>Updated post model</strong><br />» %s',
+	'LOG_MODEL_ADDED'		=> '<strong>Vytvoření šablony příspěvku</strong><br />» %s',
+	'LOG_MODEL_REMOVED'		=> '<strong>Smazání šablony příspěvku</strong><br />» %s',
+	'LOG_MODEL_UPDATED'		=> '<strong>Aktualizace šablony příspěvku</strong><br />» %s',
 ));

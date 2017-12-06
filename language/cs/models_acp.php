@@ -8,6 +8,18 @@
  *
  */
 
+/**
+ *
+ * Český překlad
+ *
+ * Datum: 6.12.2017
+ * Domovská stránka: http://www.ice-wow.eu
+ * Aktuální verze překladu:
+ * Reportní systém:
+ * GitHub:
+ *
+ */
+ 
 if (!defined('IN_PHPBB'))
 {
 	exit;
@@ -36,28 +48,28 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'ADD_NEW_MODEL'			=> 'Add new post model',
-	'FOUNDERS'				=> 'Founders',
-	'MODEL'					=> 'Model',
-	'MODEL_ADD'				=> 'Add post model',
-	'MODEL_ADDED'			=> 'Post model successfully added.',
-	'MODEL_AUTH'			=> 'Model permission',
-	'MODEL_AUTH_EXPLAIN'	=> 'Define the required permission to view this model. <br />You will have to also authorize users to use post models by setting the appropriate permission.',
-	'MODEL_ALREADY_EXIST'	=> 'A model with this title already exist, please enter another title for this model.',
-	'MODEL_CONTENT'			=> 'Model content',
-	'MODEL_CONTENT_EXPLAIN'	=> 'The model content will be inserted such as it in the message body',
-	'MODEL_EDIT'			=> 'Edit post model',
-	'MODEL_EDIT_EXPLAIN'	=> 'Here you are able to add or edit a post model.',
-	'MODEL_LANGUAGE'		=> 'Model language',
-	'MODEL_PM'				=> 'Display in private messaging',
-	'MODEL_PM_EXPLAIN'		=> 'You will have to also authorize users to use post models in private messaging by setting the appropriate permission.',
-	'MODEL_SETTINGS'		=> 'Model settings',
-	'MODEL_TITLE'			=> 'Model name',
-	'MODEL_UPDATED'			=> 'Post model successfully updated.',
-	'MODEL_REMOVED'			=> 'Post model successfully removed.',
+	'ADD_NEW_MODEL'			=> 'Vytvořit šablonu',
+	'FOUNDERS'				=> 'Zakladatelé',
+	'MODEL'					=> 'Šablona',
+	'MODEL_ADD'				=> 'Vytvoření nové šablony',
+	'MODEL_ADDED'			=> 'Vytvoření šablony bylo úspěšné.',
+	'MODEL_AUTH'			=> 'Oprávnění',
+	'MODEL_AUTH_EXPLAIN'	=> 'Zde máte možnost zvolit jaký typ uživatelů bude moci šablonu použít.',
+	'MODEL_ALREADY_EXIST'	=> 'Šablona s tímto názvem již existuje, zadejte jiný název.',
+	'MODEL_CONTENT'			=> 'Obsah',
+	'MODEL_CONTENT_EXPLAIN'	=> 'Zde máte možnost nastavit obsah šablony, která bude vložena do příspěvku či soukromé zprávy.',
+	'MODEL_EDIT'			=> 'Úprava šablony',
+	'MODEL_EDIT_EXPLAIN'	=> 'Zde máte možnost nastavit šablonu.',
+	'MODEL_LANGUAGE'		=> 'Jazyk',
+	'MODEL_PM'				=> 'Použití v SZ',
+	'MODEL_PM_EXPLAIN'		=> 'Zde máte možnost nastavit zda šablona půjde použít i v soukromých zprávách.',
+	'MODEL_SETTINGS'		=> 'Nastavení',
+	'MODEL_TITLE'			=> 'Název',
+	'MODEL_UPDATED'			=> 'Aktualizace šablony byla úspěšná.',
+	'MODEL_REMOVED'			=> 'Smazání šablony bylo úspěšné.',
 
-	'NO_EXIST'				=> 'The language pack is no longer available.',
-	'NO_MODEL_INFO'			=> 'You must specify a title, a content and a language for your model.',
-	'NO_MODEL'				=> 'Post model could not be found.',
-	'NO_PERMISSIONS'		=> 'You don’t have the required permission to manage post models.',
+	'NO_EXIST'				=> 'Jazykový balík již není dostupný.',
+	'NO_MODEL_INFO'			=> 'Musíte nastavit název, jazyk a obsah šablony.',
+	'NO_MODEL'				=> 'Šablonu se nepodařilo najít.',
+	'NO_PERMISSIONS'		=> 'Bohužel nemáte dostatečná oprávnění pro správu šablon.',
 ));

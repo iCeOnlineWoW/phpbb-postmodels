@@ -1,7 +1,7 @@
 {
 	"name": "zoddo/postmodels",
 	"type": "phpbb-extension",
-	"description": "This extension allows you to create post models that can be used when posting a new message.",
+	"description": "Rozšíření umožňuje vytvořit šablony, které si lze vybrat a vložit do nového tématu či soukromé zprávy.",
 	"homepage": "https://github.com/Zoddo/phpbb-postmodels",
 	"version": "1.1.0",
 	"license": "GPL-2.0",
@@ -30,6 +30,12 @@
 			"name": "Holger",
 			"homepage": "https://www.maskinisten.net",
 			"role": "Swedish Translator"
+		},
+		{
+			"name": "Kattienika",
+			"email": "Kattienika@gmail.com",
+			"homepage": "http://www.ice-wow.eu",
+			"role": "Český překlad"
 		}
 	],
 	"require": {
@@ -40,7 +46,7 @@
         "phpbb/epv": "dev-master"
     },
 	"extra": {
-		"display-name": "Post Models",
+		"display-name": "Šablony příspěvků",
 		"soft-require": {
 			"phpbb/phpbb": ">=3.1.4"
 		},

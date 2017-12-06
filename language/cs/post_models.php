@@ -9,14 +9,17 @@
  */
 
 /**
-*
-* Český překlad
-*
-* Datum: 6.12.2017
-* Domovská stránka: http://www.ice-wow.eu
-* Reportní systém:
-*
-*/
+ *
+ * Český překlad
+ *
+ * Datum: 6.12.2017
+ * Domovská stránka: http://www.ice-wow.eu
+ * Aktuální verze překladu:
+ * Reportní systém:
+ * GitHub:
+ *
+ */
+
 if (!defined('IN_PHPBB'))
 {
 	exit;
