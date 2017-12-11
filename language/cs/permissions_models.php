@@ -15,7 +15,7 @@
  * Datum: 6.12.2017
  * Domovská stránka: http://www.ice-wow.eu
  * Aktuální verze překladu: http://forum.ice-wow.eu/viewtopic.php?f=56&t=48
- * Reportní systém:
+ * Reportní systém: http://bugtracker.ice-wow.eu
  * GitHub: https://github.com/iCeOnlineWoW/phpbb-postmodels
  *
  */

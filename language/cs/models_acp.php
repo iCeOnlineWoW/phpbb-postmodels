@@ -15,7 +15,7 @@
  * Datum: 6.12.2017
  * Domovská stránka: http://www.ice-wow.eu
  * Aktuální verze překladu: http://forum.ice-wow.eu/viewtopic.php?f=56&t=48
- * Reportní systém:
+ * Reportní systém: http://bugtracker.ice-wow.eu
  * GitHub: https://github.com/iCeOnlineWoW/phpbb-postmodels
  *
  */
@@ -54,22 +54,22 @@ $lang = array_merge($lang, array(
 	'MODEL_ADD'				=> 'Vytvoření nové šablony',
 	'MODEL_ADDED'			=> 'Vytvoření šablony bylo úspěšné.',
 	'MODEL_AUTH'			=> 'Oprávnění',
-	'MODEL_AUTH_EXPLAIN'	=> 'Zde máte možnost zvolit jaký typ uživatelů bude moci šablonu použít.',
+	'MODEL_AUTH_EXPLAIN'	=> 'Zde máš možnost zvolit jaký typ uživatelů bude moci šablonu použít.',
 	'MODEL_ALREADY_EXIST'	=> 'Šablona s tímto názvem již existuje, zadejte jiný název.',
 	'MODEL_CONTENT'			=> 'Obsah',
-	'MODEL_CONTENT_EXPLAIN'	=> 'Zde máte možnost nastavit obsah šablony, která bude vložena do příspěvku či soukromé zprávy.',
+	'MODEL_CONTENT_EXPLAIN'	=> 'Zde máš možnost nastavit obsah šablony, která bude vložena do příspěvku či soukromé zprávy.',
 	'MODEL_EDIT'			=> 'Úprava šablony',
-	'MODEL_EDIT_EXPLAIN'	=> 'Zde máte možnost nastavit šablonu.',
+	'MODEL_EDIT_EXPLAIN'	=> 'Zde máš možnost nastavit šablonu.',
 	'MODEL_LANGUAGE'		=> 'Jazyk',
 	'MODEL_PM'				=> 'Použití v SZ',
-	'MODEL_PM_EXPLAIN'		=> 'Zde máte možnost nastavit zda šablona půjde použít i v soukromých zprávách.',
+	'MODEL_PM_EXPLAIN'		=> 'Zde máš možnost nastavit zda šablona půjde použít i v soukromých zprávách.',
 	'MODEL_SETTINGS'		=> 'Nastavení',
 	'MODEL_TITLE'			=> 'Název',
 	'MODEL_UPDATED'			=> 'Aktualizace šablony byla úspěšná.',
 	'MODEL_REMOVED'			=> 'Smazání šablony bylo úspěšné.',
 
 	'NO_EXIST'				=> 'Jazykový balík již není dostupný.',
-	'NO_MODEL_INFO'			=> 'Musíte nastavit název, jazyk a obsah šablony.',
+	'NO_MODEL_INFO'			=> 'Musíš nastavit název, jazyk a obsah šablony.',
 	'NO_MODEL'				=> 'Šablonu se nepodařilo najít.',
-	'NO_PERMISSIONS'		=> 'Bohužel nemáte dostatečná oprávnění pro správu šablon.',
+	'NO_PERMISSIONS'		=> 'Bohužel nemáš dostatečná oprávnění pro správu šablon.',
 ));

@@ -15,7 +15,7 @@
  * Datum: 6.12.2017
  * Domovská stránka: http://www.ice-wow.eu
  * Aktuální verze překladu: http://forum.ice-wow.eu/viewtopic.php?f=56&t=48
- * Reportní systém:
+ * Reportní systém: http://bugtracker.ice-wow.eu
  * GitHub: https://github.com/iCeOnlineWoW/phpbb-postmodels
  *
  */
@@ -50,10 +50,10 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	// ACP Modules
 	'ACP_MODELS'					=> 'Šablony příspěvků',
-	'ACP_MODELS_EXPLAIN'			=> 'Zde máte možnost spravovat šablony příspěvků a soukromých zpráv.</br></br>
+	'ACP_MODELS_EXPLAIN'			=> 'Zde máš možnost spravovat šablony příspěvků a soukromých zpráv.</br></br>
 										<strong>Aktuální verze překladu:</strong> <a href="http://forum.ice-wow.eu/viewtopic.php?f=56&t=48" title="iCe Online - Post Models">iCe Online - Post Models</a></br>
-										<strong>GitHub repozitář:</strong> <a href="https://github.com/iCeOnlineWoW/phpbb-postmodels" title="GitHub - iCeOnlineWoW/phpbb-postmodels">iCe Online WoW / phpbb-postmodels</a></br>
-										<strong>Reportní systém:</strong> url odkaz',
+										<strong>GitHub repozitář překladu:</strong> <a href="https://github.com/iCeOnlineWoW/phpbb-postmodels" title="GitHub - iCeOnlineWoW/phpbb-postmodels">iCe Online WoW / phpbb-postmodels</a></br>
+										<strong>Reportní systém překladu:</strong> <a href="http://bugtracker.ice-wow.eu" title="iCe Online - Bug Tracker">iCe Online - Bug Tracker</a>',
 
 	// Admin logs
 	'LOG_MODEL_ADDED'		=> '<strong>Vytvoření šablony příspěvku</strong><br />» %s',
